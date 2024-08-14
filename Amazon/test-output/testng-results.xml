@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-14T18:16:06 IST" name="Suite" finished-at="2024-08-14T18:17:07 IST" duration-ms="60419">
+    <groups>
+    </groups>
+    <test started-at="2024-08-14T18:16:06 IST" name="Test" finished-at="2024-08-14T18:17:07 IST" duration-ms="60419">
+      <class name="AmazonTestCases.TestCases">
+        <test-method is-config="true" signature="initilization()[pri:0, instance:AmazonTestCases.TestCases@7ef82753]" started-at="2024-08-14T18:16:07 IST" name="initilization" finished-at="2024-08-14T18:16:20 IST" duration-ms="13635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilization -->
+        <test-method signature="TC06()[pri:0, instance:AmazonTestCases.TestCases@7ef82753]" started-at="2024-08-14T18:16:20 IST" name="TC06" finished-at="2024-08-14T18:17:07 IST" duration-ms="46695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06 -->
+      </class> <!-- AmazonTestCases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
